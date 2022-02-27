@@ -1,8 +1,8 @@
 {
-  "userPrincipalName": "fang@cld666.cf",
+  "userPrincipalName": "cloud@efdt2.onmicrosoft.com",
   "icon": "/icons/128.png",
-  "title": "YOUNK's OneDrive",
-  "baseDirectory": "/Public",
+  "title": "Seanhui'S OneDrive",
+  "baseDirectory": "/",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
